@@ -1,0 +1,13 @@
+{
+    "token":"TOKEN DO BOT",
+    "mongodb_url": "URL DO MONGODB",
+    "categoria_carrinho": "CATEGORIA DOS CARRINHOS",
+    "canal_termos": "CANAL DE TERMOS",
+    "aprovar_cargo": "CARGO DE APROVAR COMPRA",
+    "pix": {
+        "tipo_chave": "Tipo da chave (Email, numero, cpf...)",
+        "chave_pix": "Chave pix",
+        "chave_copia_e_cola": "Chave copia e cola",
+        "qr_code-pix": "QR CODE"
+    }
+}
